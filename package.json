@@ -1,0 +1,31 @@
+{
+  "name": "intro-to-webpack",
+  "version": "1.0.0",
+  "description": "This is an example project to demonstrate how to get started with webpack",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^3.2.0",
+    "bootstrap": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^1.6.0",
+    "eslint-plugin-react": "^3.5.1",
+    "file-loader": "^0.8.4",
+    "url-loader": "^0.5.6"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kentcdodds/intro-to-webpack.git"
+  },
+  "keywords": [
+    "webpack",
+    "egghead.io"
+  ],
+  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kent.doddsfamily.us)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kentcdodds/intro-to-webpack/issues"
+  },
+  "homepage": "https://github.com/kentcdodds/intro-to-webpack"
+}
